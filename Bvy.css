@@ -29,4 +29,23 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+/*  LAYOUT  */
+main {
+  position: relative;
+  width: 100rem;
+  height: 60rem;
+  background-color: rgba(255, 255, 255, 0.35);
+  -webkit-backdrop-filter: blur(200px);
+          backdrop-filter: blur(200px);
+  -webkit-filter: blur();
+          filter: blur();
+  -webkit-box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.25);
+          box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=Bvy.css.map */
