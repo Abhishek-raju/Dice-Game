@@ -25,4 +25,6 @@ btnRoll.addEventListener("click", function () {
   diceEl.src = `/images/dice-${dice}.png`;
 
   //Check the number is one if true,switch to next player
+  if (dice == 1) {
+  }
 });
