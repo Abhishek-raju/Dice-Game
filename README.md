@@ -21,5 +21,5 @@ Click on the New Game option or Roll dice to start the Game.
 - HTML
 - CSS
 - SCSS
-- JavaScript(ES5,ES6)
+- JavaScript(ES6)
 
