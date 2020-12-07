@@ -6,7 +6,7 @@ Its a game in which 2 players roll a dice and whosever gets to 100 points wins t
 
 # Introduction
 
-2 Players take turns to roll a single die as many times,adding of roll results to a running total,but losing their gained score and thier turn if the roll die is 1.
+2 Players take turns to roll a single die as many times,adding of roll results to a running total but ,if roll die is 1 the they will lose their gained score and thier turn.
 
 # Requirements for this Game
 
